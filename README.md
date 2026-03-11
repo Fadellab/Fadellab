@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on open source software<br><br>🤝 I’m looking for help with improving open source software<br>🌱 I’m currently learning General Electric and ai <br><br>
+🔭 Currently Working On: Building and contributing to open source software projects
+🤝 Looking to Collaborate On: Enhancing and scaling open source software — always open to meaningful contributions
+🌱 Currently Learning: General Electric systems and AI/Machine Learning
 
 
 ## 🌐 Socials:
